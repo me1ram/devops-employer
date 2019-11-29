@@ -1,7 +1,7 @@
 # devops-employer
 The list of interviewed companies
 
-|  Company | SCM  |CI/CD tool  | Agile/Scrum/Waterfall  |Orchestration   |
+|Company|SCM|CI/CD|Methodology|Orchestration|Platform|Bonus|Parking|Vacation Days|
 |---|---|---|---|---|
 |   |   |   |   |   |
 |   |   |   |   |   |
