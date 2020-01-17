@@ -1,8 +1,5 @@
 # devops-employer
-The list of interviewed companies
+Таблица пройденных собеседований.
 
-|Company|SCM|CI/CD|Methodology|Orchestration|Platform|Bonus|Parking|Vacation Days|
-|---|---|---|---|---|---|---|---|---|
-|   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   | 
+Сложившееся мнение о компании/ий сугубо личное и не может претендовать на объективность.
+Данные могут быть полезны для соискателей/коллег.
